@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World!</string>
+    <string name="app_name">UpgradeLite</string>
+    <string name="mainmenuitem_continue">Continue</string>
+    <string name="mainmenuitem_newgame">New Game</string>
+    <string name="mainmenuitem_options">Options</string>
+    <string name="mainmenu_toast_nosave">No saved game found!</string>
+    <string name="mainmenu_alert_title">Start new game?</string>
+    <string name="mainmenu_alert_text">Doing so will reset all saved data!</string>
+    
+    <string name="newgamemenu_title">New Game</string>
+    <string name="newgamemenu_inputname">What is Your name?</string>
+    <string name="newgamemenu_buttontext">Start New Game</string>
+       
+    <string name="upgrademenu_title">Upgrades</string>
+    <string name="upgrademenu_nocash">Not enough cash!</string>
+    <string name="cashreg">CASH:</string>
+    <string name="upgrademenu_sound">Sound - </string>
+    <string name="upgrademenu_music">Music - </string>
+    <string name="upgrademenu_graphics">Graphics - </string>
+    <string name="upgrademenu_weapon">Weapon - </string>
+    
+    <string name="continuemenu_title">Welcome back!</string>
+    <string name="continuemenu_nextlevel">Play next level - lvl.</string>
+    <string name="continuemenu_upgrades">Upgrades</string>
+    <string name="continuemenu_options">Options</string>
+
+    <string name="optionsmenu_title">Options</string>
+    <string name="optionsmenu_sound">Sound</string>
+    <string name="optionsmenu_music">Music</string>
+    <string name="optionsmenu_reset">Reset game data</string>
+    <string name="optionsmenu_confirm">Confirm</string>
+    <string name="optionsmenu_deleted">User data deleted!</string>
+    <string name="optionsmenu_cancelled">Reset cancelled!</string>
+    <string name="optionsmenu_alerttext">Reset all user data?</string>
+    <string name="optionsmenu_soundalert">You have to upgrade sound first!</string>
+    <string name="optionsmenu_musicalert">You have to upgrade music first!</string>
+    
+    <string name="alert_confirm">Yes</string>
+    <string name="alert_decline">No</string>
+
+</resources>

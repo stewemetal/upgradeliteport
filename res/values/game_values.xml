@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="PREFS">UpgradePrefs</string>
+    <string name="first_time">FTS</string>
+    <string name="sound_level">SoundP</string>
+    <string name="music_level">MusicP</string>
+    <string name="sound_enabled">SoundOn</string>
+    <string name="music_enabled">MusicOn</string>
+    <string name="graphics_level">GraphLevel</string>
+    <string name="weapon_level">WeapLevel</string>
+    <string name="next_level">NextLevel</string>
+    <string name="cash">Cash</string>
+    <string name="player_name">Name</string>
+    
+</resources>

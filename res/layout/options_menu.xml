@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/sound_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginBottom="25dp" >
+
+        <TextView
+            android:id="@+id/soundtext"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.89"
+            android:layout_marginTop="10dp"
+            android:text="@string/optionsmenu_sound"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ToggleButton
+            android:id="@+id/soundToggle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="soundToggleB"
+            android:clickable="true" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/music_Layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_marginBottom="25dp" >
+
+        <TextView
+            android:id="@+id/musictext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.99"
+            android:text="@string/optionsmenu_music"
+            android:layout_marginTop="10dp"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <ToggleButton
+            android:id="@+id/musicToggle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="musicToggleB"
+            android:clickable="true" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/resetButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/optionsmenu_reset" />
+
+</LinearLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World!</string>
+    <string name="app_name">UpgradeLite</string>
+    <string name="mainmenuitem_continue">Folytatás</string>
+    <string name="mainmenuitem_newgame">Új játék</string>
+    <string name="mainmenuitem_options">Beállítások</string>
+    <string name="mainmenu_toast_nosave">Nincs mentett játék!</string>
+    <string name="mainmenu_alert_title">Új játékot kezd?</string>
+    <string name="mainmenu_alert_text">Az Igen-t választva törlődik a meglévő mentés!</string>
+    
+    <string name="newgamemenu_title">Új játék</string>
+    <string name="newgamemenu_inputname">Írd be a nevedet!</string>
+    <string name="newgamemenu_buttontext">Új játék kezdése</string>
+       
+    <string name="upgrademenu_title">Fejlesztések</string>
+    <string name="upgrademenu_nocash">Nincs elég pénzed!</string>
+    <string name="cashreg">PÉNZ:</string>
+    <string name="upgrademenu_sound">Hangok - </string>
+    <string name="upgrademenu_music">Zene - </string>
+    <string name="upgrademenu_graphics">Grafika - </string>
+    <string name="upgrademenu_weapon">Fegyver - </string>
+    
+    <string name="continuemenu_title">Üdv újra!</string>
+    <string name="continuemenu_nextlevel">Következő szint - lvl.</string>
+    <string name="continuemenu_upgrades">Fejlesztések</string>
+    <string name="continuemenu_options">Beállítások</string>
+
+    <string name="optionsmenu_title">Beállítások</string>
+    <string name="optionsmenu_sound">Hangok</string>
+    <string name="optionsmenu_music">Zene</string>
+    <string name="optionsmenu_reset">Adatok törlése</string>
+    <string name="optionsmenu_confirm">Megerősítés</string>
+    <string name="optionsmenu_deleted">Felhasználói adatok törölve!</string>
+    <string name="optionsmenu_cancelled">Törlés visszavonva!</string>
+    <string name="optionsmenu_alerttext">Törlöd a felhasználói adatokat?</string>
+    <string name="optionsmenu_soundalert">Előbb fejlesztened kell a hangokat!</string>
+    <string name="optionsmenu_musicalert">Előbb fejlesztened kell a zenét!</string>
+    
+    <string name="alert_confirm">Igen</string>
+    <string name="alert_decline">Nem</string>
+
+</resources>
